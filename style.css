@@ -1,0 +1,275 @@
+
+
+
+body{
+    position: relative;
+   
+
+}
+
+/* header styles */
+.nav h3{
+    font-size: 28px;
+    font-weight: 800;
+    color:#0D1321;;
+    position:relative;
+    top: 30px;
+    left:300px;
+}
+.nav button{
+    position: relative;
+    top:-20px;
+    left: 1070px;
+    background-color:transparent;
+    color:#0D1321;;
+    border-radius: 8px;
+    padding:10px;
+    font-weight: 600;
+}
+.bg-img{
+    background-image: url(assets/Hero-bg.png);
+    position: relative;
+    height: 652px;
+    width: 100%;
+    background-size: cover;
+    top:20px;
+
+}
+
+.mid-banner{
+    width: 998px;
+    height: 582px;
+    display: block;
+    position: absolute;
+    top:20px;
+    left:40%;
+}
+
+.heading{
+    font-size:30px;
+    font-weight: 800;
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    left:-170px;
+}
+
+.head-text{
+    font-size: 16px;
+    font-weight:400;
+    opacity: 70%;
+    position: absolute;
+    text-align: center;
+    top:310px;
+    left:-200px;
+}
+
+.mid-banner button{
+    align-content: center;
+    position: absolute;
+    top: 370px;
+    left:60px;
+}
+
+.primary-btn{
+    border-radius: 8px;
+    background-color: #0D1321;
+    padding: 21px 24px;
+    color: white;
+}
+
+
+/* main styles */
+
+.main-bg{
+    background-color: rgba(13, 19, 33, 0.02);
+    height: 1395px;
+    margin: 74px 152px 0px 148px;
+    border-radius: 16px;
+}
+
+.all-h1{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.top{
+    padding: 80px 97px;
+}
+
+.div-1{
+    text-align: center;
+}
+
+.sec{
+    background-color: white;
+    margin: 32px;
+    border-radius: 16px;
+}
+
+.sub-sec{
+    display: flex;
+    justify-content: center;
+    padding: 48px;
+}
+
+.in-sec-1{
+    padding: 10.5px 98.83px 9.5px 0px;
+}
+
+.in-sec-2{
+    padding: 10px 101px 10px 32px;
+}
+
+.in-sec-3{
+    padding: 10.5px 133px 9.5px 0px;
+}
+
+.sec-head{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.btn-2{
+    border-radius: 0px;
+    padding: 12px 20px;
+    font-weight: 600;
+    font-size: 20;
+    background-color: white;
+}
+
+.div-2nd{
+    height: 775px;
+}
+
+.yt-vid{
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+}
+
+.div-3{
+    height: 1437px;
+    text-align: center;
+}
+
+.lgt{
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.LM{
+    font-weight: bold;
+}
+
+.div-4{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    gap: 24px;
+}
+
+.pd{
+    padding: 40px;
+}
+
+.pf{
+    display: flex;
+    justify-content: center;
+    height:200px;
+    width:90%;
+    margin: 100px;
+    border: 1px solid rgb(208, 202, 202);
+}
+.react-pic{
+    height:50px;
+    width: 70px;
+    position: relative;
+    top:35px;
+
+}
+.node-pic{
+    height:70px;
+    width: 100px;
+    position: relative;
+    top:50px;
+
+}
+.mongo-pic{
+    height:100px;
+    width: 100px;
+    position: relative;
+    top:35px;
+
+
+}
+
+.ntg{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  
+}
+
+#support{
+    background-image: url(assets/handshake.jpg);
+    height: 313px;
+    width:90%;
+    border-radius: 16px;
+    text-align: center;
+    margin: 74px 150px 155px 150px;
+    position: relative;
+    top:100px;
+    left:-50px;
+}
+
+#spt{
+    font-weight: bold;
+    font-size: 36px;
+    color: white;
+    padding: 64px 424px 16px 424px;
+}
+
+#spt2{
+    color: white;
+    padding: 16px 219px 24px 219px;
+}
+
+.feedback-form{
+    background-color: white;
+    color: rgba(13, 19, 33, 0.40);
+    padding: 19px 215px 19px 20px;
+    border-radius: 8px;
+}
+
+.sbm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px 228px 64px 228px;
+    gap: 16px;
+}
+
+#btn2{
+    padding: 17px 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    width: 120;
+    height: 57;
+    color: black;
+    background-color: white;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+    gap: 527px;
+    height:100px;
+    width: 1440px;
+    background-color: rgba(13, 19, 33, 0.03);
+    padding: 32px 150px;
+}
+
+#ft{
+    padding: 32px 150px;
+}
